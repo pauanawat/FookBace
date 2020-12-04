@@ -1,7 +1,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_URL = 'https://fookbace.herokuapp.com/';
+const API_URL = 'https://my-fookbace.herokuapp.com/';
 
 class PostService {
   createPost(sendToBackend) {
